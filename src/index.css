@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+html{
+  font-size: 16px;
+}
+.app{
+  text-align: center;
+  padding: 1rem 2rem;
+}
+h2{
+  margin-bottom: 2rem;
+}
+.todo{
+  width: fit-content !important;
+  margin-bottom: 2rem;
+  display: flex;
+}
+.max-width{
+  max-width: 900px;
+  margin: 0 auto;
+  padding-top: 2rem;
+}
